@@ -1,0 +1,59 @@
+SimpleMaps Project 
+SimpleMaps is an academic project that was set up with the aim of creating a collaborative system accessed through the internet, in which users can search for geographic locations and interact with maps, inserting multimedia objects that represent their emotions and perceptions from places they usually go to. 
+Such objects can be images, videos, audio files, text or even pictures on the map. By inserting these artifacts on the map, they should be geo-coded, which means, each object must have a latitude and longitude value associated. 
+
+Target Audience 
+The system was idealized to be used for social purposes. System users would be the community members and each user could portray the community where they live under their own perspective, indicating places that they usually go to, sharing the music they like to listen to, pictures and videos that represent their daily routine. Every information collected would be analyzed, for example, by a social worker or other professional who interacts with the community. 
+Despite the initial idea, the system is available to the entire community and anyone can use it for recreational or business purposes. 
+
+SimpleMaps Team 
+This project was developed by students from the 4th semester of Systems Development and Analysis from BandTec College during the first semester of 2012. 
+
+Description of the Features & Functions 
+Based on the defined purpose, the functional requirements were identified, which represent the functionality needed for the implementation of the project: 
+- Search for an address on the map 
+- Mark a point on the map 
+- Mark an area on the map 
+- Insert a picture on the map 
+- Insert an audio file on the map 
+- Insert a video on the map 
+- Edit / Delete an object 
+- Create / Edit a map 
+- Change a map 
+
+Features & Functions Implemented 
+- Mark a point on the map 
+- Mark an area on the map 
+- Create a new map 
+- Change a map 
+
+Features & Functions Roadmap 
+Functional requirements: 
+- Search for an address on the map 
+- Insert a picture on the map 
+- Insert an audio file on the map 
+- Insert a video on the map 
+- Edit a map 
+- Edit / Delete an object 
+Non-functional requirements: 
+- Porting the application to Android OS 
+- Porting the application to Facebook 
+
+Used Technologies 
+Integrated Development Environment (IDE): 
+Microsoft Visual Studio 2008 
+
+Programming Language: 
+C #, JavaScript and ASP.Net 
+
+API: 
+Leaflet (http://leaflet.cloudmade.com/) which uses HTML 5 and CSS3 
+
+Design Patterns: 
+Strategy and Factory Method 
+
+Relational Database Management System: 
+MySQL Community Edition 
+
+Development Methodology: 
+Scrum. The development of the project was based on the Scrum framework, which is an iterative and incremental agile software development method for managing software projects and application development.

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Leaflet">
+</Property><Property Name="Solution File" Value="C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Leaflet.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Leaflet.suo">
+</Property><Property Name="Date" Value="segunda-feira, 10 de dezembro de 2012">
+</Property><Property Name="Time" Value="19:41">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Leaflet.sln" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Leaflet.suo" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet.suo">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Leaflet.csproj" Description="Project file successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Leaflet.csproj">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Leaflet.csproj.user" Description="Project user file successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Leaflet.csproj.user">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Conexao.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Conexao.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Endereco.ashx.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Endereco.ashx.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Home.aspx.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Home.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Home.aspx.designer.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Home.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Imagem.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Imagem.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Login.ascx.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Login.ascx.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Login.ascx.designer.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Login.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\login.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\login.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Ponto.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Ponto.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Retangulo.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Retangulo.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\sair.aspx.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\sair.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\sair.aspx.designer.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\sair.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Tosco.aspx.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Tosco.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Tosco.aspx.designer.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Tosco.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Triangulo.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Triangulo.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Upload.aspx.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Upload.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Upload.aspx.designer.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Upload.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Video.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Video.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\WSPrincipal.asmx.cs" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\WSPrincipal.asmx.cs">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Properties\Settings.settings">
+</Event><Event ErrorLevel="2" Project="Leaflet" Source="Leaflet\fundoMenu.png" Description="Failed to backup file as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\fundoMenu.png">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Home.aspx" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Home.aspx">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\escondedor.png" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\escondedor.png">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Images\audio.png" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Images\audio.png">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Images\excluir_3.png" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Images\excluir_3.png">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Images\formas.png" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Images\formas.png">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Images\foto.png" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Images\foto.png">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Images\gravador.png" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Images\gravador.png">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Images\logofinal.png" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Images\logofinal.png">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Images\marcador.png" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Images\marcador.png">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Images\salvar.gif" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Images\salvar.gif">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Images\salvar_5.png" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Images\salvar_5.png">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Images\video.png" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Images\video.png">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Login.ascx" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Login.ascx">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\main.css" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\main.css">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\sair.aspx" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\sair.aspx">
+</Event><Event ErrorLevel="2" Project="Leaflet" Source="Leaflet\separador.png" Description="Failed to backup file as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\separador.png">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Upload.aspx" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Upload.aspx">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Web.config" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Web.config">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\WSPrincipal.asmx" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\WSPrincipal.asmx">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Endereco.ashx" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Endereco.ashx">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Tosco.aspx" Description="File successfully backed up as C:\Users\Public\SimpleMaps_04__10__2012_ultimaV2\Backup1\Leaflet\Tosco.aspx">
+</Event><Event ErrorLevel="0" Project="Leaflet" Source="Leaflet\Leaflet.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Leaflet" Source="Leaflet\Leaflet.csproj" Description="Converted">
+</Event></UpgradeLog>

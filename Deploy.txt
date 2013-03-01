@@ -1,0 +1,6 @@
+Para efetuar deploy do projeto, no Visual Studio 2008, deve ir em: 
+Build / Publish Leaflet. Deve-se escolher um local para o executável ser salvo e
+subir para o servidor a aplicação.
+Em qualquer versão do projeto, possui uma pasta chamada "dist".
+Ela é responsável por fazer o mapa funcionar. Sem ela, o mapa não aparecerá.
+Precisa, subi-lá completa.
